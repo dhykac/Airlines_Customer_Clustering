@@ -23,7 +23,7 @@ from sklearn.cluster import KMeans
 
 ## Results Overview
 
-![Radar Plot](https://user-images.githubusercontent.com/92696555/149770212-eb9d3ebc-3f2e-47cd-8b39-7bab763ffe2f.png)
+![Radar Plot](https://user-images.githubusercontent.com/92696555/159148684-56aa55b8-72c6-43fd-8b70-a2b2b155dc8a.png)
 
 From the [summary](https://github.com/dhykac/Airlines_Customer_Clustering/blob/main/Airlines%20Customer%20Clustering.ipynb) and the visualization above, we know that there are 3 customer cluster :
 
